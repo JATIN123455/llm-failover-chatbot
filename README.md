@@ -1,7 +1,7 @@
 # 1. Live URLs
 
-- Frontend: add the deployed public frontend URL here
-- Backend: add the deployed public backend URL here
+- Frontend: https://llm-failover-chatbot.vercel.app
+- Backend: https://llm-failover-backend.onrender.com
 
 # 2. Run locally: with Docker and without
 
